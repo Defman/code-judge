@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "cli",
+    "runner",
+    "runner/java",
+    "test",
+    "test/wasm",
+]
